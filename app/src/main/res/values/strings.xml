@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Geoprofiling</string>
+    <string name="location_permission_denied">User denied permission for device location.</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Find an address</string>
+    <string name="nothing_found">Nothing found for</string>
+</resources>
